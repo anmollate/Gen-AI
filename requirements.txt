@@ -1,0 +1,6 @@
+langchain_google_genai
+dotenv
+langchain_huggingface
+transformers
+pytorch
+sentence-transformers
