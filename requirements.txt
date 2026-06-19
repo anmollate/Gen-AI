@@ -4,3 +4,5 @@ langchain_huggingface
 transformers
 pytorch
 sentence-transformers
+ChromaDB
+nltk
