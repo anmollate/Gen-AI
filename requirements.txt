@@ -6,3 +6,4 @@ pytorch
 sentence-transformers
 ChromaDB
 nltk
+torchvision
