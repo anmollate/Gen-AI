@@ -1,8 +1,8 @@
 langchain_google_genai
-dotenv
+python-dotenv
 langchain_huggingface
 transformers
-pytorch
+torch
 sentence-transformers
 ChromaDB
 nltk
